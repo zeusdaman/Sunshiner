@@ -79,12 +79,12 @@ public class ForecastFragment extends Fragment {
 
         String[] data = {
                 "Fri Apr 21 - Rain - 30/28",
-                "Sat Apr 21 - Rain - 29/27",
-                "Sun Apr 21 - Rain - 30/28",
-                "Mon Apr 21 - Rain - 29/27",
-                "Tue Apr 21 - Rain - 29/27/28",
-                "Wed Apr 21 - Rain - 30/28",
-                "Thurs Apr 21 - Rain - 29/27"
+                "Sat Apr 22 - Rain - 29/27",
+                "Sun Apr 23 - Rain - 30/28",
+                "Mon Apr 24 - Rain - 29/27",
+                "Tue Apr 25 - Rain - 29/27/28",
+                "Wed Apr 26 - Rain - 30/28",
+                "Thurs Apr 27 - Rain - 29/27"
         };
         List<String> weekForecast = new ArrayList<String>(Arrays.asList(data));
 
